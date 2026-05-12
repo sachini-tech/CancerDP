@@ -4,6 +4,8 @@ Welcome to the official repository for CancerDP, a webserver for predicting the 
 
 Web Server:  https://webs.iiitd.edu.in/raghava/cancerdp/
 
+ZENODO : https://doi.org/10.5281/zenodo.20072079
+
 ## Citation
 
 Gupta, S., Chaudhary, K., Kumar, R., Gautam, A., Nanda, J. S., Dhanda, S. K., Brahmachari, S. K., & Raghava, G. P. S. (2016).
